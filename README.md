@@ -1,4 +1,4 @@
-# HR27 — Privacy-Preserving Compute via Monero × IC
+# HR27 — Privacy-Preserving Compute via Monero × ICP
 
 **Series:** Quansistor Field Computing — Compendium  
 **Author:** Honza Rožek  
